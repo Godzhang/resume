@@ -1,118 +1,48 @@
-# 张奇
+<center><font size=6 color=#000><b>张奇</b></font></center>
+<center>15900243148 | 男 | 生日：1992.06</center>
+<center>北京 | 工作经验：10年 | 求职意向：前端技术专家</center>
 
-- Web 前端工程师
-- 男，1992，居住地北京
-- 联系方式：15900243148 / zhangqijilindaxue@126.com
-- 吉林大学 本科 勘查技术与工程(信息技术方向) 2010-2014
+# 个人优势
+- 小程序研发领域专家，有多端同构技术深度应用经验。主导了企业中从传统开发到一码多端研发架构转型工作，重构项目超过20个，研发提效显著。  
+- 2+年前端技术团队管理经验。
+- 优秀的技术落地能力，在技术研发赋能、降本提效上取得突出业务成果。
 
-<!-- > 自我介绍（自我定位中后台技术专家，再企业里主导中后台技术项目研发，负责中后台业务提效工作，有大量的中后台开发经验。++++++++） -->
+# 工作经历
+**中国经济信息社**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端技术专家&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019.05 - 至今
+<font size=3>**内容：**</font>
+负责采编发系统和稿件库系统生态研发工作，负责完成前端研发提效，体验提升，新技术探索等目标工作。
+<font size=3>**业绩：** </font>
+- 从0到1搭建物料平台，解决项目组件管理成本高，组件研发效率低下的问题，产出符合业务线设计语言标准的可复用物料 20+，物料消费300+ 小时，研发提效15%，实现组件迭代审批流，组件功能与API可视化等核心功能，项目整体重复代码减少4k行。
+- 中后台领域引入ice，formily，ahooks等技术方案，打造Pro-Components项目，缩短中后台项目研发周期50%。  
 
-## 专业技能
+**北京启明合心科技有限公司**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018.5-2019.5
+<font size=3>**内容：**</font> 
+负责公司 ToB 产品线研发，业务覆盖商品交易、中后台等领域。
+<font size=3>**业绩：** </font>
+- 重构前端架构，废弃jquery搭建 vue 体系，降低研发复杂度，提升开发效率。
+- 自动化部署，减少前端部署的风险和依赖。
 
-- 精通 H5、CSS3、es6 等前端基础开发技术。
-- 精通 react 及相关技术生态。
-<!-- 基于 Ant Design 生态，主导核心业务物料规划与建设工作。 -->
-- 对 react hooks 最佳实践有充分开发经验（AHooks）。
-  <!-- - 精通组件库开发体系（Ant Design，Fusion） -->
-  <!-- - 精通微前端技术应用实践（icestark，qiankun） -->
-- 熟练掌握数据结构和算法基础
-- 熟练掌握 wepback,vite 及相关技术生态，对前端工程化有充分实践
-- 熟练掌握 laya 游戏开发引擎，具有独立开发 h5 小游戏的经验
-- 了解服务端开发，有 node、koa 等相关开发经验
-  <!-- 主导业务核心 PC 物料库开发，开发系统化的组件、区块、模板，对中后台技术架构（ICE）有充分实践。 -->
-  <!-- + 精通表单协议驱动开发（Formly） -->
-  <!-- + 对低代码 low-code 应用实践有一定的研究。  -->
+**腕表之家**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015.11 - 2018.4
+<font size=3>**内容：**</font>
+负责系统商品展示模块、专题模块等业务开发。
 
-<!-- > 解决的问题，如何使用，应用的价值（质量、效能、性能、稳定性），如何度量价值。 -->
+# 项目经历
+## 多端同构技术应用
+<font size=3>**背景：**</font>
+新华社拥有多种媒体类业务，在新闻媒体类产品、活动宣传、重大事件报道等有多平台投放的需求，面向H5、微信、公众号、支付宝等多个平台，为了提升研发效率，需要应用研发多端同构解决方案。
 
-## 工作经历
+<font size=3>**业绩：** </font>
+- 应用 Taro、Mobx、Taro UI 等技术，从 0 到 1 搭建开发脚手架，并在业务开发中主导了Taro 2.0升级 到 3.x版本的优化工作。
+- 研发链路解决方案沉淀。为解决小程序发版、测试、体验、合规、发布等问题，沉淀技术工具和文档30+ 。（包括：多个环境提测工具、分包优化2MB大小限制、小程序快速通过审核方案、埋点校验工具等）
+- 组件、工具脚本沉淀超 100+，组件：登录注册、下拉刷新、骨架屏、列表无限加载等，工具脚本：请求、表单、Mock、前端日志、防抖/截流/轮询等hooks。通过持续优化脚本，并集成到脚手架中，研发有效提效50%。
+- 动画赋能。沉淀了 30+ 个SVG、CSS3等动画效果，并兼容多端。应对在重大事件、媒体活动等页面需要强烈表达的诉求。在实际研发发挥了主观能动性，获得了媒体产品线的高度好评。
+- 重构项目 20 + ，将历史项目迁移到新脚手架，整体研发提效50%以上。
 
-- 腕表之家 2015.11-2018.5
-  **内容:** 负责公司首页、专题页等业务开发
+## 物料体系搭建
+<font size=3>**内容：**</font>
+- 负责多端领域物料体系建设，减少团队项目内重复冗余代码，降低组件管理成本。
+- 中后台领域引入先进技术方案，解决项目研发提效问题，缩短项目研发迭代周期。
 
-- 北京启明合心科技有限公司 2018.5-2019.4
-  **内容:** 负责 ToB 后台管理系统技术设施搭建、项目开发
-
-- 中国经济信息社（新华社技术局）2019.5-至今
-
-  > **内容:** 采编发平台与稿件库系统生态开发工作
-  > **业绩:** 1.开发组件库、物料库等体系工具
-
-    <!-- (中后台技术)
-    - 新华社全媒体采编发平台 干的多好
-    - 中后台技术架构 有什么核心产出
-    - 社交化引流
-    - 图形可视化开发： 业绩是什么 -->
-
-## 项目经验
-
-> 业务项目 （业务 sense/项目复杂度，业务的发展方向，业务的价值，业务的主要困难和瓶颈，技术再业务中的核心贡献）。
-
-> 技术项目（专业性，落地能力，技术 sense）
-
-> 游戏
-
-> 开源项目
-
-### 开源项目
-
-> （提高自己能力，有一定的业务应用场景）
-
-#### 新华社全媒体采编发平台-子项目
-
-**内容:** 采编发平台与稿件库系统生态开发工作
-
-<!-- 采编发平台与稿件库系统生态开发工作 -->
-<!-- 负责稿件库需求开发与质量保障工作，构建组件库以保障业务高效推进。 -->
-<!-- 用于全球新华社记者、编辑一体化解决方案，涵盖了新闻采集、编辑、发布等众多流程，涉及用户量庞大，角色众多，且国际化、多语种覆盖广泛，专注为新华社核心内容赋能。 -->
-
-**业绩:** 1. 调研 ant Design，ant Design Pro 等技术与设计解决方案，构建符合业务需求的组件架构 2.
-
-1. 技术选型，react ant Design ant Design Pro， 微前端。
-2. 负责 ---- 业务模块的研发调研，及产品交互设计 业务调研等等
-3. 优化用户体验、性能优化， （怎么优化用户体验：表单自动填写，历史记忆功能，端智能推荐等）（性能优化，怎么做的。）
-
-#### 中后台技术架构
-
-内容： ----- 提效，解决前端开发质量问题。
-业绩：
-
-1. 微前端改造提效，react vue，
-2. 物料库研发工作，开发 50+ 业务核心组件、区块、模板，复用率提效 20%。
-3. 低代码领域探索。
-
-#### 中后台物料库研发 【开源项目】
-
-内容：为什么要开发物料库 （组件，区块，模板）
-业绩：
-
-1.
-2. 3.---
-
-#### 可视化数据新闻工具
-
-**内容:** 企业项目：提供多样化、可定制的数据可视化图表方案
-
-- 对标 hanabi 等可视化工具，定制化 UI 规范，支持业务发展
-- 技术栈：react, @antv/g2, nodejs
-- 主导前端技术选型、架构搭建、规范制定等工作
-- 应对编辑人员提出的个性化图表需求，实现相应功能
-- 基于 nodejs + puppeteer + ffmepg 实现将图表导出为 gif 和不同格式的视频
-
-#### 引流游戏开发《跟我一起来滑雪》
-
-**内容:** 技术栈: unity3d + laya
-**业绩:**
-
-- [游戏地址](https://pd.xinhua-news.cn/winter_olympics_laya/index.html)
-
-## 个人评价
-
-在中后台架构深度研究和应用实践，有提效、工程质量等相关开发经验。
-
-自驱力，学习力，培养实习生。
-
-热衷开源项目实践。
-
-- **热爱编程并具有良好的自驱力和学习能力**
-- **扎实的编程基本功和团队组织协调能力**
+<font size=3>**业绩：** </font>
+- 多端领域以 Taro 跨端框架为基础，从0到1搭建物料平台，解决项目内组件管理成本高，研发效率低下问题，完成已有组件展示检索，审批流，在线演示，API可视化等功能。完成全年物料总数 20+，物料消费 300+ 小时，团队整体提效15%+的任务目标。
+- 中后台领域以 AntDesign 和 FusionUI 框架为底层基础框架，引入 ice，formily，ahooks 等先进技术，提供表单、表格等页面场景下标准化解决方案并在项目中落地，缩短此类场景中后台项目研发周期30%。
