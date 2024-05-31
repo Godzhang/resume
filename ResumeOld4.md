@@ -5,11 +5,10 @@
 # 个人优势
 - 精通小程序领域研发，有多端同构技术深度应用经验。曾在企业中完成从传统开发到一码多端研发转型工作，重构项目超过20个，研发提效显著。
 - 精通中后台领域研发。有业务研发提效的实践经验，技术实践涉及状态管理 Mobx、微前端 Ice、表单方案formily、hooks库、业务物料研发等，并对低代码有持续的实践和探索。
-- 擅长互动技术的研发工作，业务研发撰写 Canvas 小游戏 10+，赋能媒体品牌宣传，曾荣获新华社优秀创新奖和最佳优秀员工。  
-- 前端基础扎实，熟练掌握Vue、react生态。
+- 前端基础扎实，精通 React 及相关技术生态。
 
 # 工作经历
-**中国经济信息社**&nbsp;前端技术专家&nbsp;2019.05 - 至今
+**中国经济信息社**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端技术专家&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019.05 - 至今
 <font size=3>**内容：**</font>
 负责新华全媒服务平台及团队管理，业务覆盖多端同构、中后台等领域。
 <font size=3>**业绩：** </font>
@@ -17,14 +16,14 @@
 - 中后台研发提效，引入ice，formily，ahooks等技术方案，缩短中后台项目研发周期50%。
 - 从0到1搭建物料平台，解决组件研发效率低下的问题，产出符合业务设计标准的可复用物料40+，研发提效25%，项目整体重复代码减少4k行。
 
-**北京启明合心科技有限公司**&nbsp;前端高级开发工程师&nbsp;2018.5-2019.5
+**北京启明合心科技有限公司**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端高级开发工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018.5-2019.5
 <font size=3>**内容：**</font> 
 负责公司 ToB 端中后台系统研发，完成项目重构、研发提效等工作。
 <font size=3>**业绩：** </font>
 - 重构前端架构，废弃jquery搭建 React 体系，降低研发复杂度，提升开发效率。
 - 自动化部署，减少前端部署的风险和依赖。
 
-**腕表之家**&nbsp;前端开发&nbsp;2015.11 - 2018.4
+**腕表之家**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前端开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015.11 - 2018.4
 <font size=3>**内容：**</font> 
 负责网站商品展示模块、专题模块等业务开发。
 
@@ -50,8 +49,28 @@
 - 研发业务物料，针对发稿平台定制化的可复用组件 40+，包括图文自动识别组件、敏感词校验组件、时间轴组件等。
 - 尝试低代码 （UIPass）在业务中的应用，能够搭建简单的CURD页面，实现 10%内部数据展示页面可以完成快速搭建。（由于生态技术发展较慢，实际效果并未完全达到预期）
 
+## React 技术体系专项
+<font size=3>**内容：**</font>
+1. 负责 React 技术体系核心架构与设计，并持续优化项目架构设计方案。
+2. 设计组内 React 业务开发规范与代码规范，在组内落地执行并且在部门进行推广。
+3. 从全局的角度建立项目最佳实践指南，持续优化页面渲染和网络加载性能，以及通过构建工具优化开发、生产环境的打包编译性能。
+4. 构建项目持续集成 CI/CD 自动化打包发布上线流程，并持续优化项目发布流水线与性能，极大提升客户需求响应速率与研发效率，获得客户一致好评。
+5. 持续深入优化业务研发效率，建立项目开发侧与用户侧线上错误监控系统，极大提升项目的稳定性与线上bug定位效率。
+6. 在部门进行多次技术分享，包括 React 最佳实践、源码等内容，获得部门内技术氛围的提升，提升部门整体技术水平。
+
+## 前端工程化
+<font size=3>**内容：**</font>
+负责前端工程化体系建设，降低团队工程管理复杂度，提供可视化工程管理平台。
+- 提供工程创建能力，创建业务工程模版，同步到gitlab仓库，对应显示项目信息。
+- 提供可视化创建分支，对项目分支进行结构化管理，分支类型分为 major 大迭代、minor 小迭代、patch 功能修复。
+- 提供可视化部署能力，动态切分分支能力。
+- 发布上线，流程严谨容错率低，提供上线审批流、code review 、发布一套完成链路，线上环境支持秒级回滚。
+
+<font size=3>**业绩：** </font>
+搭建一站式项目管理，提供 React，Taro 多套前端工程模版，一体化工程解决方案创建项目、新建迭代、本地研发、预发部署、功能提测、发布上线全套流程，解决工程管理成本问题，提升工程研发效率，生态用工统计分析。工程化平台共覆盖全部业务线100多个前端工程。
+
 # 教育经历
 **吉林大学**&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;勘查技术与工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010-2014
 
-# 社交主页
-https://github.com/Godzhang
+
+
